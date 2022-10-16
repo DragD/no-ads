@@ -9,7 +9,6 @@ ads.bta.bg
 adsy.mail.bg
 adv.abv.bg
 adv.gepime.com
-advertere.zamunda.net
 adwise.bg
 alo.bg
 antenneair.com
@@ -19,6 +18,7 @@ berbim.info
 bg-adv.com
 bg-gledai.tv
 bg-ikonomika.com
+binance.com
 blitz.bg
 blogspot.bg
 bootstrapcdn.com
@@ -26,7 +26,6 @@ burgasnews.com
 burkan.info
 carmarket.bg
 casalemedia.com
-cdn.arenabg.com
 cinemabg.net
 club-bg.org
 contentexchange.me
