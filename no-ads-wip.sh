@@ -18,6 +18,29 @@ for domain in $domains; do
 done
 
 
+while read ip; do
+  dig -x $ip | ag btc-net
+done < Custom_Block_List.txt
+
+#==== vivacom btc IP to block:
+213-91-165-130.ip.btc-net.bg.
+213-91-171-48.btc-net.bg.
+213-91-236-237.btc-net.bg.
+77-76-13-222.ip.btc-net.bg.
+77-76-20-99.ip.btc-net.bg.
+77-76-9-111.ip.btc-net.bg.
+78-154-8-154.ip.btc-net.bg.
+79-100-13-225.ip.btc-net.bg.
+83-148-64-176.ip.btc-net.bg.
+83-148-84-107.ip.btc-net.bg.
+83-148-84-154.ip.btc-net.bg.
+83-148-85-220.ip.btc-net.bg.
+83-228-90-182.btc-net.bg.
+86-94-228-83.ip.btc-net.bg.
+87-243-116-65.ip.btc-net.bg.
+90-154-129-98.ip.btc-net.bg.
+94-155-68-80.ip.btc-net.bg.
+
 104.18.1.1/12     winbet.bg, inbetpartners.com, impressio.dir.bg, winbetaffiliates.com, palmsbet.com
 172.65.1.1/16     efbet.com, winbet.bg, inbetpartners.com, impressio.dir.bg, winbetaffiliates.com, palmsbet.com
 172.67.1.1/16     efbet.com, winbet.bg, inbetpartners.com, impressio.dir.bg, winbetaffiliates.com, palmsbet.com
@@ -62,3 +85,6 @@ Mass_Scanners_To_Block
 172.217.20.78
 
 https://advertere.zamunda.net/hosted-banners/efbet/efmay22/728x90/Group_23.png
+
+ipcalc 109.123.117.231 - 109.123.117.254
+ipcalc 109.123.117.0 - 109.123.117.255
