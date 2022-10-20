@@ -45,10 +45,6 @@ fakti.bg
 fundingchoicesmessages.google.com
 gemius.pl
 gledaigo.com
-google-analytics.com
-googlesyndication.com
-googletagmanager.com
-googletagservices.com
 grabo.bg
 ibox.bg
 id24.bg
