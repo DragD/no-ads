@@ -5,7 +5,6 @@ adform.net
 adnet.bg
 adnetwork.agency
 adnxs.com
-ads.bta.bg
 adsy.mail.bg
 adv.abv.bg
 adv.gepime.com
@@ -13,7 +12,6 @@ adwise.bg
 alo.bg
 antenneair.com
 autoclub.bg
-banners.pik.bg
 berbim.info
 bg-adv.com
 bg-gledai.tv
@@ -59,7 +57,6 @@ ovo.bg
 lekuva.net
 lifehacker.bg
 lifestyle.bg
-lulinbay.hit.bg
 mediapool.bg
 menumag.bg
 miau.bg
