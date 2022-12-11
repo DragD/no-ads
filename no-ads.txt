@@ -35,6 +35,7 @@ cross.bg
 data-bg.org
 dev.bg
 djagi.com
+dmsbg.com
 doubleclick.net
 efbet.com
 etargetnet.com
